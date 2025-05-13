@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is hossein
 #### Front-End Developer | UI/UX
-![Front-End Developer | UI/UX](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 Front-End Web Developer | Focused on clean design, accessibility & performance | React, JS, Bootstrap, HTML/CSS
 
 Skills: HTML / CSS / JavaScript / React /  Bootstrap
